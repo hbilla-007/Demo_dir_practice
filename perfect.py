@@ -1,4 +1,5 @@
 n = int(input("enter number"))
+#demo of how to run git clone
 sum = 0
 for i in range(1, n):
     if n % i == 0:
