@@ -12,4 +12,4 @@ def myfunc(n):
         print("the given no is prime")
 
 
-myfunc(11)
+myfunc(7)
