@@ -5,6 +5,7 @@ def myfunc(n):
             if n % i == 0:
                 flag = True
                 break
+    #new comment 
     if flag:
         print("the given no is not a prime")
     else:
