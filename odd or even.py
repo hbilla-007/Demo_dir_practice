@@ -15,3 +15,5 @@ for i1 in l1:
     for j1 in l2:
         a = (i1+j1) / 2
     print("{h2:1.2f}".format(h2=a), end=" ")
+#adding the comment
+#adding second comment
