@@ -5,6 +5,6 @@ def myfunc():
         print("the given string is plindrome")
     else:
         print("the given string is not a palindrome")
-
+#reject
 
 myfunc()
